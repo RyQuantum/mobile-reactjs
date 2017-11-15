@@ -21,7 +21,7 @@ class AuthRoute extends Component {
   }
 
   render() {
-    return <p>jump</p>
+    return null;
   }
 }
 
